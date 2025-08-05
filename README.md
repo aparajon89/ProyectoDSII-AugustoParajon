@@ -12,8 +12,10 @@ Análisis climático de San Miguel de Tucumán para anticipar picos de frío y c
 
 En este trabajo se analiza el comportamiento climático de San Miguel de Tucumán entre el 1 de enero de 2005 y el 31 de julio de 2025, con el objetivo de anticipar picos de frío y calor y así optimizar la gestión de inventarios y el diseño de campañas de venta de productos de climatización (ventiladores, aires acondicionados, estufas) en Oscar Barbieri S.A.
 
-### Abre este notebook en Colab  
-[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](LINK_A_TU_NOTEBOOK.ipynb)  
+### Abre este notebook en Colab
+
+[![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1u7T-wuqFlMpkKDSMlAX30vlGpaBs0WkL#scrollTo=iNzoYcpZGN6h)
+
 
 
 ---
